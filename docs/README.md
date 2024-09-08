@@ -23,7 +23,7 @@
 ## Installation
 
 
-| | Command | Notes |
+| | Command | Notesas |
 | - | - | - |
 | PyPI | `pipx install sherlock-project` | `pip` may be used in place of `pipx` |
 | Docker | `docker pull sherlock/sherlock` | |
